@@ -1,4 +1,4 @@
-# SECURE-PAY--Fraud-Detection-Risk-Analytics-Platform# Credit Card Fraud Detection System
+# SECURE PAY- Fraud Detection Risk Analytics Platform
 
 ## Project Overview
 This project is a machine learning-based credit card fraud detection system designed to identify potentially fraudulent transactions in real-time. The system uses XGBoost and Random Forest models, along with SMOTE, to handle class imbalance in transaction data. It provides a comprehensive pipeline, spanning from data preprocessing to model deployment and user interaction.
