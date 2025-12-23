@@ -14,15 +14,18 @@ The project includes a Flask web application where users can input transaction d
 
 ## File Structure
 Credit-Card-Fraud-Detection/
-├─ static/ # CSS, JS, images for the frontend
-├─ templates/ # HTML templates (index.html)
-├─ app_final1.py # Flask application for real-time prediction
-├─ fraud_model_20251120_000910.pkl # Trained ML model
-├─ preprocessor_20251120_000910.pkl # Data preprocessing pipeline
-├─ model_config_20251120_000910.json # Model configuration details
-├─ new1.ipynb # Jupyter notebook for data exploration and model training
-├─ LOGO copy.png # Project logo
-└─ README.md # Project overview and instructions
+
+- `Database` – MySQL database creation file  
+- `static/` – CSS, JS, images for the frontend  
+- `templates/` – HTML templates (index.html)  
+- `app_final1.py` – Flask application for real-time prediction  
+- `fraud_model_20251120_000910.pkl` – Trained ML model  
+- `preprocessor_20251120_000910.pkl` – Data preprocessing pipeline  
+- `model_config_20251120_000910.json` – Model configuration details  
+- `new1.ipynb` – Jupyter notebook for data exploration and model training  
+- `LOGO copy.png` – Project logo  
+- `README.md` – Project overview and instructions  
+
 
 
 ## Setup Instructions
